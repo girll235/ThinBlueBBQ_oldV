@@ -29,6 +29,7 @@ Want to host it yourself? Drop the files on any web server or GitHub Pages for e
 Catch the vibe without leaving your seat:
 
 Homepage with Live Stream
+<img width="1919" height="821" alt="image" src="https://github.com/user-attachments/assets/29bbc0bc-7d95-43e5-b24f-ad48136695e3" />
 
 *Catch the smoke in action – live from the pit!*
 
